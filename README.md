@@ -1,10 +1,13 @@
 # Hi there, I'm khantiphong mokmeechai <span type="placeholder" placeholder-type="person"></span> 👋
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student at Universal Of Phayao **<span type="placeholder" placeholder-type="place"></span>**
-- 💡 Interested in **Hardware, System Analysis, and Programmer**
-- 🎯 Current Goal: Learning Hardware and PCB/Circuit and JavaScript
-- 💬 Ask me about **Hardware, JavaScrip**
+🎓 Computer Science Student at University of Phayao
+
+💡 Interested in Hardware and Programming
+
+🎯 Currently Learning JavaScript and PCB Design
+
+💬 Ask me about Hardware and JavaScript
 
 ---
 git
